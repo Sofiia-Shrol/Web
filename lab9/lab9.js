@@ -84,5 +84,5 @@ getDogs()
         });
     })
     .catch(error => {
-        console.error('Собачоки нажаль відсутні');
+  console.error('Собачоки нажаль відсутні');
     });
